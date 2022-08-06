@@ -1,0 +1,7 @@
+.env
+venv
+.idea
+tmp
+flask_session
+unit-tests
+**/__pycache__
